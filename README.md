@@ -9,7 +9,7 @@ A small tool that I developed to become more familiar with Vue3 and GitHub deplo
 The program selects a MIDI chord progression from a list and plays it. 
 The goal is to then guess the scale of the MIDI file.
 
-I got the MIDI files from https://github.com/ldrolez/free-midi-chords/releases.
+I got the MIDI files from [ldrolez@github](https://github.com/ldrolez/free-midi-chords/releases).
 
 # Key Takeaways
 ### Vue3 and the new Composition API
