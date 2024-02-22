@@ -21,4 +21,4 @@ Getting familiar with GitHub Actions and automated deployment to GitHub Pages.
 
 ### The Training Interface
 
-![Website](./docs/training.png?raw=true "Website")
+![The Training Interface](./docs/interface.png?raw=true "The Training Interface")
