@@ -10,9 +10,9 @@ Die MIDI-Files habe ich von https://github.com/ldrolez/free-midi-chords/releases
 
 # Key Takeaways
 ### Vue3 and the new Composition API
-Projektbezogen hatte ich bisher nur mit Vue2 gearbeitet. Hiermit konnte ich erste Schritte mit der Composition API gehen.
+I had only worked with Vue2 before. With this project, I took my first steps with the composition API and Vue3.
 ### GitHub Deployment
-Vertraut machen mit GitHub Actions und Deployment auf GitHub Seiten
+Getting familiar with GitHub Actions and deploying to GitHub Pages.
 
 # Pictures
 
