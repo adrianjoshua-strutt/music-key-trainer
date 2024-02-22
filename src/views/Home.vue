@@ -42,7 +42,7 @@ export default {
 
     onMounted(() => {
       const imported = require.context("/public/midis/", true, /\.mid$/)
-      allMidiFiles.value = imported.keys().map(p => ("/midis" + p.substring(1)))
+      allMidiFiles.value = imported.keys().map(p => ("./midis" + p.substring(1)))
       selectNewMidiPath()
     })
 
