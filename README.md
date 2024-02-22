@@ -3,10 +3,11 @@
 
 # Background
 
-Ein kleines Tool, das ich entwickelt habe, um mehr mit Vue3- und GitHub-Deploy Vertraut zu werden. 
-Das Programm nimmt aus einer Liste an MIDI-Chordprogressionen eine heraus und spielte diese ab. Ziel ist es dann die Tonleiter des MIDI files zu erraten.
+A small tool that I developed to become more familiar with Vue3 and GitHub deployment. 
+The program selects a MIDI chord progression from a list and plays it. 
+The goal is to then guess the scale of the MIDI file.
 
-Die MIDI-Files habe ich von https://github.com/ldrolez/free-midi-chords/releases genommen.
+I got the MIDI files from https://github.com/ldrolez/free-midi-chords/releases.
 
 # Key Takeaways
 ### Vue3 and the new Composition API
